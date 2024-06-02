@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/Diogo/CLionProjects/Algoritmos de ordena\u00e7\u00e3o/Insertion Sort/cmake-build-debug"
+			"value" : "c:/Users/Diogo/CLionProjects/Sorting-algorithms/Selection Sort/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Diogo/CLionProjects/Algoritmos de ordena\u00e7\u00e3o/Insertion Sort/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/Diogo/CLionProjects/Sorting-algorithms/Selection Sort/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -647,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/Diogo/CLionProjects/Algoritmos de ordena\u00e7\u00e3o/Insertion Sort"
+			"value" : "C:/Users/Diogo/CLionProjects/Sorting-algorithms/Selection Sort"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -659,7 +659,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/Insertion_Sort"
+			"value" : "C:/Program Files (x86)/Selection_Sort"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -875,7 +875,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "Insertion_Sort"
+			"value" : "Selection_Sort"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1270,7 +1270,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "Insertion_Sort_BINARY_DIR",
+			"name" : "Selection_Sort_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1279,10 +1279,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Diogo/CLionProjects/Algoritmos de ordena\u00e7\u00e3o/Insertion Sort/cmake-build-debug"
+			"value" : "C:/Users/Diogo/CLionProjects/Sorting-algorithms/Selection Sort/cmake-build-debug"
 		},
 		{
-			"name" : "Insertion_Sort_IS_TOP_LEVEL",
+			"name" : "Selection_Sort_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1294,7 +1294,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "Insertion_Sort_SOURCE_DIR",
+			"name" : "Selection_Sort_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1303,7 +1303,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Diogo/CLionProjects/Algoritmos de ordena\u00e7\u00e3o/Insertion Sort"
+			"value" : "C:/Users/Diogo/CLionProjects/Sorting-algorithms/Selection Sort"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",

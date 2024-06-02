@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Diogo/CLionProjects/Algoritmos de ordenação/Bubble Sort
+# Install script for directory: C:/Users/Diogo/CLionProjects/Sorting-algorithms/Bubble Sort
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/Diogo/CLionProjects/Algoritmos de ordenação/Bubble Sort/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/Diogo/CLionProjects/Sorting-algorithms/Bubble Sort/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
